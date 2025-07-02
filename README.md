@@ -1,6 +1,6 @@
 ## Hello there, i'm Artee. 👋
 
-I'm a french developper who try to word in sportscar. 
+I'm a french developper who try to work in sportscar. 
 
 I learned some languages in high scool like : HTML, CSS, XML, Java and C++.
 
