@@ -5,19 +5,9 @@ Building [3BoImPro] ⚡️
 I'm Artee a Back-end Developer. I Spend most of my time watching sportscar and listening music.
 I love sharing knowledge and putting tutorials, courses and posts together for helping other developers.
 
-:mailbox: Reach me out!
-
-[![Twitter Badge](https://img.shields.io/badge/-@Artee-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Artee_e69)](https://twitter.com/Artee_e69)
-
 ### What I currently Do
 
 - 🔭 I’m currently working on my future.
-- :computer: Most used line of code `pyinstaller -c`
+- :computer: Most used line of code `git commit`
 - 🤔 I’m looking for help with discord bots coding.
 - 📫 Reach me by twitter MP.
-- ⚡ Fun fact: I play CS2, i love sportscar and soccer.
-
-#### Top Technologies
-
-<!-- TODO: Make technologies links takes you to repositories -->
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
